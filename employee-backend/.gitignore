@@ -1,0 +1,30 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+
+# Debugging files
+*.swp
+*.swo
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
